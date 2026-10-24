@@ -1,0 +1,11 @@
+﻿<Solution>
+  <Project Path="OpenEcuSystem.Android/OpenEcuSystem.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="OpenEcuSystem.Browser/OpenEcuSystem.Browser.csproj" />
+  <Project Path="OpenEcuSystem.Desktop/OpenEcuSystem.Desktop.csproj" />
+  <Project Path="OpenEcuSystem.iOS/OpenEcuSystem.iOS.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="OpenEcuSystem/OpenEcuSystem.csproj" />
+</Solution>
